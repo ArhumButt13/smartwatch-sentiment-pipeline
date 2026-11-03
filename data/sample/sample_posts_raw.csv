@@ -1,0 +1,19 @@
+post_id,search_term,created_at,language,url,content_html
+s001,AppleWatch,2026-10-01T10:00:00+00:00,en,https://example.org/sample/s001,"<p>Battery life on my new <a href='https://x'>#AppleWatch</a> is honestly great, lasts two days</p>"
+s002,AppleWatch,2026-10-02T10:00:00+00:00,en,https://example.org/sample/s002,"<p>The Apple Watch sleep tracking keeps failing, really disappointing <a href='https://t.co/x'>https://t.co/x</a></p>"
+s003,GalaxyWatch,2026-10-03T10:00:00+00:00,en,https://example.org/sample/s003,"<p>Loving the bright display on the Galaxy Watch, workouts feel smooth</p>"
+s004,GalaxyWatch,2026-10-04T10:00:00+00:00,en,https://example.org/sample/s004,<p>@friend@mastodon.social my Galaxy Watch strap broke after a week. Terrible quality.</p>
+s005,SmartWatch,2026-10-05T10:00:00+00:00,en,https://example.org/sample/s005,"<p>Comparing Apple Watch and Galaxy Watch for running, both are fine</p>"
+s003,SmartWatch,2026-10-06T10:00:00+00:00,en,https://example.org/sample/s003,"<p>Loving the bright display on the Galaxy Watch, workouts feel smooth</p>"
+s006,WearableTech,2026-10-07T10:00:00+00:00,de,https://example.org/sample/s006,<p>Die Apple Watch ist super für das Training</p>
+s007,AppleWatch,2026-10-08T10:00:00+00:00,en,https://example.org/sample/s007,<p>#AppleWatch</p>
+s008,FitnessTracker,2026-10-09T10:00:00+00:00,en,https://example.org/sample/s008,"<p>My fitness tracker counts steps okay, nothing special</p>"
+s009,SamsungGalaxyWatch,2026-10-10T10:00:00+00:00,en,https://example.org/sample/s009,"<p>Samsung watch heart rate readings look accurate compared to my chest strap, impressed</p>"
+s010,AppleWatchUltra,2026-10-11T10:00:00+00:00,en,https://example.org/sample/s010,<p>Apple Watch Ultra is too expensive for what it does</p>
+s011,AppleWatch,2026-10-12T10:00:00+00:00,en,https://example.org/sample/s011,"<p>Updated watchOS today, notifications on the apple watch arrive faster now</p>"
+s012,GalaxyWatch,2026-10-13T10:00:00+00:00,en,https://example.org/sample/s012,"<p>Galaxy Watch battery drains overnight, not happy at all</p>"
+s013,GalaxyWatch,2026-10-14T10:00:00+00:00,en,https://example.org/sample/s013,"<p>Galaxy Watch battery drains overnight, not happy at all</p>"
+s014,AppleWatch,2026-10-15T10:00:00+00:00,,https://example.org/sample/s014,<p>Apple Watch fall detection called for help when my dad slipped. Grateful.</p>
+s015,GalaxyWatch,2026-10-16T10:00:00+00:00,en,https://example.org/sample/s015,"<p>Set up my Galaxy Watch with Wear OS today, it works</p>"
+s016,AppleWatch,2026-10-17T10:00:00+00:00,en,https://example.org/sample/s016,<p>The Apple Watch band I ordered arrived today</p>
+s017,GalaxyWatch,2026-10-18T10:00:00+00:00,en,https://example.org/sample/s017,"<p>Galaxy Watch GPS lost signal twice during my run, frustrating</p>"
